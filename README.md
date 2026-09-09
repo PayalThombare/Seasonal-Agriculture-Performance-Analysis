@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Seasonal Agriculture Performance Analysis
 
 A complete, data-driven analytics dashboard project analyzing how agricultural
