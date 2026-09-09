@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/bd479116-fe77-4fa1-9b03-7f30a147d19d" />
+
 
 # Seasonal Agriculture Performance Analysis
 
