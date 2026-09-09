@@ -1,0 +1,14 @@
+# Seasonal Agriculture Performance Analysis — dependencies
+# Core stack required by the project brief: Python + Jupyter + Pandas + NumPy
+# + Matplotlib + Seaborn + SciPy. No other analysis/dashboard libraries are used.
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+scipy>=1.10
+
+# To open and run the notebook itself
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
